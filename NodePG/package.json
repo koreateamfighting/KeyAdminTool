@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express-force-https": "^1.0.0",
+    "https": "^1.0.0",
+    "localtunnel": "^2.0.2",
+    "mkcert": "^1.5.1",
+    "mongoose": "^6.3.4",
+    "pg": "^8.7.3"
+  },
+  "devDependencies": {
+    "express": "^4.18.1",
+    "forever": "^4.0.3",
+    "nodemon": "^2.0.16"
+  }
+}

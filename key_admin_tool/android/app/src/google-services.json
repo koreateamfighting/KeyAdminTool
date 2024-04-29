@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "696191662915",
+    "project_id": "keyadmin-2f526",
+    "storage_bucket": "keyadmin-2f526.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696191662915:android:54cf7fdce68deaf0cecdf6",
+        "android_client_info": {
+          "package_name": "com.example.fatos_key_gen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696191662915-7b0otqsmrfkktldbfb65vn705ecj9o10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0DCcQTE_UeTjo7lGX7RjJSs5VAHADxp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696191662915-7b0otqsmrfkktldbfb65vn705ecj9o10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
